@@ -6,4 +6,12 @@ Public installer downloads for Vafrum Bridge.
 
 Download: [VafrumBridge-Windows-x64-Setup.exe](./VafrumBridge-Windows-x64-Setup.exe)
 
-This build is currently unsigned, so Windows SmartScreen may show a warning.
+## macOS Apple Silicon
+
+Download: [VafrumBridge-macOS-arm64.dmg](./VafrumBridge-macOS-arm64.dmg)
+
+## Linux x64
+
+Download: [VafrumBridge-Linux-x64.AppImage](./VafrumBridge-Linux-x64.AppImage)
+
+These builds are currently unsigned, so Windows SmartScreen/macOS Gatekeeper may show a warning.
